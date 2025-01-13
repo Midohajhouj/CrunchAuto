@@ -125,7 +125,7 @@ Contact
 
 If you have any questions or need further assistance, feel free to contact the author at:
 
-    Email: midohajhouj11@example.com
+    Email: midohajhouj11@gmail.com
     GitHub: https://github.com/Midohajhouj
 
 
