@@ -1,4 +1,4 @@
-# Contributing to CrunchAuto
+# Contributing to CrunchAuto 1.1
 
 We welcome contributions to the **CrunchAuto** project! Whether you're fixing bugs, improving documentation, or adding new features, your contributions help improve the tool. Please follow the guidelines below to ensure a smooth collaboration.
 
