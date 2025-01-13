@@ -17,8 +17,9 @@ We welcome contributions to the **CrunchAuto** project! Whether you're fixing bu
 2. **Clone Your Fork**: 
    - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/midohajhouj/CrunchAuto.git
-     cd crunch
+     git clone https://github.com/Midohajhouj/CrunchAuto.git
+     cd CrunchAuto
+     chmod +x *
      ```
 
 3. **Create a Branch**:
@@ -53,7 +54,7 @@ We welcome contributions to the **CrunchAuto** project! Whether you're fixing bu
 
 If you encounter a bug, please report it so we can fix it as soon as possible. Here’s how you can report a bug effectively:
 
-1. **Check if the Issue Has Already Been Reported**: Search the [Issues](https://github.com/midohajhouj/CrunchAuto/issues) page to see if the bug has already been reported.
+1. **Check if the Issue Has Already Been Reported**: Search the [Issues](https://github.com/Midohajhouj/CrunchAuto/issues) page to see if the bug has already been reported.
 
 2. **Create a New Issue**: If the issue hasn’t been reported yet, please open a new issue with the following information:
    - A descriptive title
@@ -64,7 +65,7 @@ If you encounter a bug, please report it so we can fix it as soon as possible. H
 
 We also welcome feature requests! If you have an idea to improve **Crunch**, feel free to propose it.
 
-1. **Search for Existing Feature Requests**: Check the [Issues](https://github.com/midohajhouj/CrunchAuto/issues) to see if someone has already requested the feature.
+1. **Search for Existing Feature Requests**: Check the [Issues](https://github.com/Midohajhouj/CrunchAuto/issues) to see if someone has already requested the feature.
 
 2. **Submit a New Feature Request**: If the feature has not been requested yet, open a new issue with:
    - A clear and concise description of the feature
@@ -76,5 +77,5 @@ To contribute to the project, you'll need to set up a local development environm
 
 1. **Clone the repository** (if you haven’t already):
    ```bash
-   git clone https://github.com/midohajhouj/CrunchAuto.git
+   git clone https://github.com/Midohajhouj/CrunchAuto.git
    cd crunchAuto
