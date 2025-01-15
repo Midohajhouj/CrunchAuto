@@ -11,7 +11,7 @@ def display_banner():
     """
     banner = f"""
     {Fore.CYAN}================================
-       {Fore.YELLOW} Crunch Automated 1.1
+       {Fore.YELLOW} Crunch Automated
     {Fore.CYAN}================================
     {Fore.GREEN}Generate a wordlist from your 
     custom character set with ease!
