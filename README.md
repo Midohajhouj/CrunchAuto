@@ -1,6 +1,6 @@
-## Crunch Automated 1.1
+## Crunch Automated
 
-This tool is a customizable wordlist generator that allows you to generate wordlists based on a custom set of characters. You can specify the minimum and maximum lengths for the generated words, add a prefix or suffix, and save the result to a file. This tool is perfect for penetration testers and security researchers who need to generate wordlists for brute-force attacks, password cracking, or any other purpose . providing terminal lunch next update.
+This tool is a customizable wordlist generator that allows you to generate wordlists based on a custom set of characters. You can specify the minimum and maximum lengths for the generated words, add a prefix or suffix, and save the result to a file. This tool is perfect for penetration testers and security researchers who need to generate wordlists for brute-force attacks, password cracking, or any other purpose.
 
 ## Features
 
