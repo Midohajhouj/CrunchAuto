@@ -39,7 +39,7 @@ pip install colorama
 
 Now, you can run the script using Python:
 
-    python crunch.py
+    python3crunch.py
 
     
 Usage
@@ -49,14 +49,14 @@ Basic Usage (Command-Line Mode)
 
 To generate a wordlist, simply call the script with the necessary arguments.
 
-python crunch.py -c "abc" -min 3 -max 5 -o wordlist.txt
+python3 crunch.py -c "abc" -min 3 -max 5 -o wordlist.txt
 
 This will generate a wordlist with words of length 3 to 5 using the characters "abc" and save the output in wordlist.txt.
 Wizard Mode
 
 You can also use the Wizard Mode, which will guide you through the configuration process interactively.
 
-python crunch.py -w
+python3 crunch.py -w
 
 This will prompt you for:
 
@@ -70,21 +70,21 @@ Example Usage
 
 Generate wordlist with a custom character set:
 
-python crunch.py-c "abc123" -min 4 -max 6 -o wordlist.txt
+python3 crunch.py-c "abc123" -min 4 -max 6 -o wordlist.txt
 
 Generate wordlist with a prefix:
 
-python crunch.py -c "xyz" -min 3 -max 5 -o wordlist.txt -pfx "test_"
+python3 crunch.py -c "xyz" -min 3 -max 5 -o wordlist.txt -pfx "test_"
 
 Generate wordlist with a suffix:
 
-python crunch.py -c "1234" -min 2 -max 4 -o wordlist.txt -s "_suffix"
+python3 crunch.py -c "1234" -min 2 -max 4 -o wordlist.txt -s "_suffix"
 
 Help
 
 To view all available options and how to use them, run:
 
-python crunch.py -h
+python3crunch.py -h
 
 Output Format
 
